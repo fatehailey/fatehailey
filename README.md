@@ -15,10 +15,4 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/haileyfate/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools:
-
-[
-<br />
-<br />
-
 ---# fatehailey
